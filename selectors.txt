@@ -20,7 +20,7 @@ XPath: //input[@id='search-bar']
 
 Logout button
 CSS selector: .fa-sign-out-alt
-XPath: //a[@class='fas fa-sign-out-alt fa-lg']
+XPath: //i[@class='fas fa-sign-out-alt fa-lg']
 
 Upload image button
 CSS selector: .uploadfilecontainer
