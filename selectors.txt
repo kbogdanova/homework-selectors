@@ -1,0 +1,43 @@
+Logo iSkillo 
+CSS selector: .navbar-brand
+XPath: //a[@class='navbar-brand']
+
+Home button
+CSS selector: #nav-link-home
+XPath: //a[@id='nav-link-home']
+
+Profile button
+CSS selector: #nav-link-profile 
+XPath: //a[@id='nav-link-profile'] 
+
+New post button
+CSS selector: #nav-link-new-post
+XPath: //a[@id='nav-link-new-post'] 
+
+Search field 
+CSS selector: #search-bar
+XPath: //input[@id='search-bar'] 
+
+Logout button
+CSS selector: .fa-sign-out-alt
+XPath: //a[@class='fas fa-sign-out-alt fa-lg']
+
+Upload image button
+CSS selector: .uploadfilecontainer
+XPath: //div[@class='uploadfilecontainer']
+
+Browse button
+CSS selector: #choose-file
+XPath: //button[@id='choose-file'] 
+
+Caption field 
+CSS selector: input[formcontrolname="caption"]
+XPath: //input[@formcontrolname="caption"]
+
+Private-Public button
+CSS selector: .post-status-label:first-of-type
+XPath: //label[@class='post-status-label custom-control-label']
+
+Submit button
+CSS selector: #create-post
+XPath: //button[@id='create-post'] 
